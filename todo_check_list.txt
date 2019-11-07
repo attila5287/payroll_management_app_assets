@@ -1,0 +1,22 @@
+# ======= FRONT-END HTML =======
+
+[] NAVIGATION BAR BRAND ICON ELEPHANT INSPIRED BY POSTGRESQL
+
+[] WALL ROUTE TRANSPARENT ICONS FOR ADD-SHOW-EDIT-DELETE (CRUD)
+
+[] <GUEST ROUTES> 
+        |_ TIMESHEET: CALCULATES TOTAL HOURS WORKED VIA CLOCK-IN/OUT
+	|_ PAYSTUB: CREATES AN HTML DOCUMENT PRINTABLE-CTRL-P ON BROWSER
+			
+
+[] <USER WALL>
+	|_ ADD/ EDIT /DELETE EMPLOYEE: 
+	|_ VIEW EMPLOYEE: dashboard like web page showing Year To Date figures
+
+
+# ======= PYTHON OBJECT ORIENTED PROGRAMMING =======
+[] class Employee(obj) method/attributes
+	|_ init: inst an employee object with user input via forms at /addemployee
+	|_ paystub: reads profile data created by the user except time period
+	|_ employment verification letter: company letter with logo to be uploaded by the user
+	|_ :
